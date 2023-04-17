@@ -1,5 +1,5 @@
 # orgsHooks
-Aplicativo utilizando React Native CLI
+Aplicação utilizando React Native CLI
 
 Aprendizado:
 Produzir um Componente:
