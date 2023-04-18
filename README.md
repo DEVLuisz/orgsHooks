@@ -24,7 +24,7 @@ Criei, na pasta src, o componente de estrelas que podem ser clicadas pelo usuár
 Refatorar as estrelas:
 Para diminuir o tamanho do código, organizamos e enxugamos o componente de estrelas.
 
-A Criçaõ seu próprio Hook:
+A Crição seu próprio Hook:
 Aprendi a criar um Hook personalizado (useProdutores) para o aplicativo, a fim de facilitar a reutilização da função em outros pontos do código.
 Utilizar o Hook Reducer:
 Vi como o useState pode complicar a criação de métodos complexos, portanto, para que não tenhamos problemas com funções extensas, usamos o useReducer, que simplifica lógicas extensas.
